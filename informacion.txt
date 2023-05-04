@@ -6,3 +6,4 @@ Manejo y Configuración
 Cualquier
 Metodologias Agiles
 Computacion Visual
+Base de datos
