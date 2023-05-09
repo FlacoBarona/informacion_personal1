@@ -7,3 +7,4 @@ Cualquier
 Metodologias Agiles
 Computacion Visual
 Base de datos
+No se debe modificar desde GitHub.
